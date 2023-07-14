@@ -15,12 +15,13 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytrv-magisk"
 
 [YouTube-Extended]
-app-name = "YouTube"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+build-mode = "module"
+version = "auto"
+included-patches = "custom-branding-icon-revancify-red"
 
 [Music]
 build-mode = "both"
@@ -44,11 +45,15 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Twitch]
-build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+build-mode = "module"
+version = "auto"
 
 [TikTok]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+build-mode = "module"
+version = "auto"
+included-patches = "sim-spoof"
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
