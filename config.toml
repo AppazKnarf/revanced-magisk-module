@@ -34,12 +34,6 @@ build-mode = "module"
 version = "auto"
 included-patches = "sim-spoof"
 
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-build-mode = "module"
-version = "auto"
-
 [ml.docilealligator.infinityforreddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 build-mode = "module"
-exclusive-patches = true
