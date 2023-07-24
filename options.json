@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "patchName": "Change OAuth client id",
+    "options": [
+      {
+        "key": "client-id",
+        "value": "TDPRB1idC2oTIPiR0smYTw"
+      }
+    ]
+  }
+]
