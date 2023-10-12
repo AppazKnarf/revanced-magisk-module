@@ -5,12 +5,9 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
-enabled = false
-build-mode = "module"                                                   # 'both', 'apk' or 'module'
-excluded-patches = "vanced-microg-support"                                                 # space-seperated patches to exclude (multiline strings are not supported)
-included-patches = ""                                             # space-seperated patches to include (non-excluded patches are included by default)
-version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "module"
+excluded-patches = "'Vanced MicroG support'"
 
 [YouTube-Extended]
 enabled = true
