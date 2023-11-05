@@ -23,7 +23,8 @@ build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Twitch]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "module"
 
 [TikTok]
