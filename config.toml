@@ -31,3 +31,8 @@ build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "module"
 included-patches = "'SIM spoof'"
+
+[Spotify]
+enabled = true
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+build-mode = "module"
