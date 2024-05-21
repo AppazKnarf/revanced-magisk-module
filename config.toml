@@ -14,3 +14,12 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[Twitch]
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+build-mode = "module" 
+
+[TikTok]
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+included-patches = "'SIM spoof'"
+build-mode = "module" 
