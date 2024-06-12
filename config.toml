@@ -24,8 +24,10 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
+build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
+build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
