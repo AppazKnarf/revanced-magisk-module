@@ -33,3 +33,10 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
+
+[Sync]
+apkmirror-dlurl = "https://apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
+build-mode = "module"
+excluded-patches = "'Spoof client'"
+
+
