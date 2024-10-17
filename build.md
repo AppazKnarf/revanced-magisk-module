@@ -1,6 +1,6 @@
 Sync: v23.06.30-13:39  
 YouTube: 19.16.39  
-YouTube-Extended: 19.16.39  
+YouTube-Extended: 19.25.39  
 Twitch: 16.9.1  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
