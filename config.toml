@@ -30,6 +30,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 build-mode = "module"
+version = "auto"
 
 # [Music-Extended]
 # app-name = "Music"
