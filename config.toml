@@ -42,12 +42,21 @@ version = "auto"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
+#[YouTube-Extended]
+#app-name = "YouTube"
+#patches-source = "inotia00/revanced-patches"
+#cli-source = "inotia00/revanced-cli"
+#rv-brand = "ReVanced Extended"
+#version = "19.34.42"
+#build-mode = "module"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+## archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-version = "19.34.42"
 build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
