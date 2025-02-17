@@ -1,6 +1,6 @@
 {
-  "version": "v36.5.4",
-  "versionCode": 123,
-  "zipUrl": "https://github.com/AppazKnarf/revanced-magisk-module/releases/download/123/tiktok-revanced-magisk-v36.5.4-all.zip",
+  "version": "v36.5.4 (patches: 5.12.0)",
+  "versionCode": 168,
+  "zipUrl": "https://github.com/AppazKnarf/revanced-magisk-module/releases/download/168/tiktok-revanced-magisk-v36.5.4-all.zip",
   "changelog": "https://raw.githubusercontent.com/AppazKnarf/revanced-magisk-module/update/build.md"
 }
