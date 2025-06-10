@@ -1,3 +1,4 @@
+YouTube: 20.12.46  
 YouTube-Extended: 19.47.53  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -10,5 +11,5 @@ Patches: inotia00/patches-5.6.2.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.25.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.25.0)  
+Patches: ReVanced/patches-5.27.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.27.0)  
