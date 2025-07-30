@@ -23,9 +23,9 @@ build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 build-mode = "module"
 
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-build-mode = "module"
+#[Instagram]
+#apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+#build-mode = "module"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
