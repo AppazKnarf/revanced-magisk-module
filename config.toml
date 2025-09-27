@@ -16,7 +16,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube]
-build-mode = "both"
+build-mode = "module"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
