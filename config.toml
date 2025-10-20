@@ -48,7 +48,7 @@ arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-#[Tiktok]
-#apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-#build-mode = "module"
-#included-patches = "'SIM spoof'"
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+build-mode = "module"
+included-patches = "'SIM spoof'"
