@@ -31,9 +31,9 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-build-mode = "module"
-included-patches = "'Hide ads' 'Anonymous story viewing' 'Enable developer menu' 'Open links externally' 'Remove build expired popup' 'Sanitize sharing links' 'Disable story auto flipping'"
-exclusive-patches = true
+arch = "arm64-v8a"
+build-mode = "both"
+included-patches = "'Disable Reels scrolling' 'Limit feed to followed profiles' 'Anonymous story viewing' 'Enable developer menu' 'Open links externally' 'Disable story auto flipping'"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
