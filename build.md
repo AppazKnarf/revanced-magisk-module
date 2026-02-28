@@ -1,4 +1,4 @@
-Instagram: 417.0.0.54.77  
+Instagram: 418.0.0.51.77  
 Twitch: 16.9.1  
 YouTube: 20.14.43  
 YouTube-Extended: 20.05.46  
