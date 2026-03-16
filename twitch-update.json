@@ -1,6 +1,6 @@
 {
-  "version": "v16.9.1 (patches 5.50.2.rvp)",
-  "versionCode": 246,
-  "zipUrl": "https://github.com/AppazKnarf/revanced-magisk-module/releases/download/246/twitch-revanced-module-v16.9.1-all.zip",
+  "version": "v16.9.1 (patches 6.0.1.rvp)",
+  "versionCode": 249,
+  "zipUrl": "https://github.com/AppazKnarf/revanced-magisk-module/releases/download/249/twitch-revanced-module-v16.9.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/AppazKnarf/revanced-magisk-module/update/build.md"
 }
