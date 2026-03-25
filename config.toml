@@ -36,7 +36,7 @@ build-mode = "module"
 included-patches = "'SIM spoof'"
 
 [YouTube-Extended]
-enabled = true
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
