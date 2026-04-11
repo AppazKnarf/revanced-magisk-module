@@ -29,11 +29,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
-[TikTok]
-enabled = false
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "module"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
 
 [YouTube-Extended]
 enabled = false
