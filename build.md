@@ -5,7 +5,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: bluecxt/instagram-revanced-patches/patches-1.0.3.rvp  
-[Changelog](https://github.com/bluecxt/instagram-revanced-patches/releases/tag/v1.0.3)
+Patches: crimera/piko/patches-3.9.0.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.9.0)
 
 CLI: ReVanced/revanced-cli/revanced-cli-6.0.0-all.jar    
