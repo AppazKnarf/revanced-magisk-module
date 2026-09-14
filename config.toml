@@ -26,7 +26,8 @@ version = "439.0.0.37.89"
 pkg-name = "com.instagram.android"
 
 patches-source = "crimera/piko"
-cli-source = "ReVanced/revanced-cli"
+#cli-source = "ReVanced/revanced-cli"
+cli-source = "MorpheApp/morphe-cli"
 cli-version = "v6.0.0"
 
 direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=384510833&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-439.0.0.37.89-arm64-v8a.apkm"
