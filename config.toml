@@ -32,5 +32,5 @@ cli-source = "MorpheApp/morphe-cli"
 
 direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=384510833&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-439.0.0.37.89-arm64-v8a.apkm"
 arch = "arm64-v8a"
-build-mode = "module"
+build-mode = "both"
 
