@@ -18,7 +18,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 enable-update-checks = true
 
 [Instagram]
-enabled = enabled
+enabled = true
 patches-source = "bluecxt/instagram-revanced-patches"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
