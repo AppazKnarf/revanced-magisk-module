@@ -1,4 +1,3 @@
-Instagram: 439.0.0.37.89  
 YouTube-Morphe: 21.13.164  
 
 Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
