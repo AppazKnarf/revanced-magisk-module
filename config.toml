@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube-Morphe]
-enabled = true
+enabled = false 
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -30,11 +30,12 @@ cli-source = "MorpheApp/morphe-cli"
 #cli-version = "v6.0.0"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=384510833&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-439.0.0.37.89-arm64-v8a.apkm"
+direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=384510833&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-447.0.0.55.81-arm64-v8a.apkm"
 arch = "arm64-v8a"
 build-mode = "both"
 
 [Reddit-Morphe]
+enabled = false 
 app-name = "Reddit"
 rv-brand = "Morphe"
 build-mode = "both"
