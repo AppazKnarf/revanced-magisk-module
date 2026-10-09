@@ -21,7 +21,7 @@ enable-update-checks = true
 [Instagram]
 enabled = true
 app-name = "Instagram"
-#version = "439.0.0.37.89"
+#version = "447.0.0.55.81"
 pkg-name = "com.instagram.android"
 patches-source = "crimera/piko"
 patches-version = "dev"
