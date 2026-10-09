@@ -33,3 +33,14 @@ uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=384510833&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-439.0.0.37.89-arm64-v8a.apkm"
 arch = "arm64-v8a"
 build-mode = "both"
+
+[Reddit-Morphe]
+app-name = "Reddit"
+rv-brand = "Morphe"
+build-mode = "both"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+dpi = "120-640dpi"
+
