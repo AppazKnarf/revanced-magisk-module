@@ -8,39 +8,33 @@ parallel-jobs = 1
 
 [YouTube-Morphe]
 app-name = "YouTube"
-build-mode = "both"
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 enable-update-checks = true
 
-[Music-Morphe]
-app-name = "Music"
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-enable-update-checks = true
-
 [Reddit-Morphe]
 app-name = "Reddit"
-build-mode = "apk"
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 dpi = "120-640dpi"
 enable-update-checks = true
 
-[GooglePhotos]
+[Instagram]
+enabled = true
+app-name = "Instagram"
+#version = "447.0.0.55.81"
+pkg-name = "com.instagram.android"
+patches-source = "crimera/piko"
+patches-version = "dev"
+#cli-source = "ReVanced/revanced-cli"
+cli-source = "MorpheApp/morphe-cli"
+#cli-version = "v6.0.0"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+#direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=384510833&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-447.0.0.55.81-arm64-v8a.apkm"
+#direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=385311927&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-447.0.0.55.81-arm64-v8a.apkm"
+direct-dlurl = "https://d.apkpure.net/b/XAPK/com.instagram.android?versionCode=385811006&nc=arm64-v8a&sv=28&rvmm=com.instagram.android-452.1.0.53.64-arm64-v8a.apkm"
+arch = "arm64-v8a"
 build-mode = "both"
-patches-source = "RookieEnough/De-Vanced"
-rv-brand = "DeVanced"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
-enable-update-checks = true
-
-[Twitter]
-patches-source = "crimera/piko-newx"
-rv-brand = "Piko"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-version = "latest"
-included-patches = "'NewX: Restore Twitter branding'"
-enable-update-checks = true
