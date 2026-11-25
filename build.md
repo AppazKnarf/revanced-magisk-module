@@ -13,3 +13,7 @@ Patches: crimera/piko/patches-3.12.0-dev.6.mpp
 CLI: MorpheApp/morphe-cli/morphe-desktop-2.3.0-all.jar  
 Patches: MorpheApp/morphe-patches/patches-2.3.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.3.0)  
+
+Skipped:  
+Patches: crimera/piko/patches-3.12.0-dev.6.mpp  
+Patches: MorpheApp/morphe-patches/patches-2.3.0.mpp    
